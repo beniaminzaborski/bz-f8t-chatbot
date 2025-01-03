@@ -26,9 +26,6 @@ Project is created with:
 ## Setup
 TBD
 
-## Deployment strategy into environments
-![Branches and environments](./doc/f8t_branches_environments.png)
-
 ## F8T repositories
 * Infrastructure: [github.com/beniaminzaborski/bz-f8t-infrastructure](https://github.com/beniaminzaborski/bz-f8t-infrastructure)
 * Administration: [github.com/beniaminzaborski/bz-f8t-administration](https://github.com/beniaminzaborski/bz-f8t-administration)
