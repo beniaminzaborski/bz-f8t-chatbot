@@ -1,0 +1,11 @@
+@Bz.F8t.ChatBot.WebAPI_HostAddress = http://localhost:5018
+
+POST {{Bz.F8t.ChatBot.WebAPI_HostAddress}}/api/chat/
+Content-Type: application/json
+
+{
+  "query": "Hello, chatbot!"
+}
+
+
+###
